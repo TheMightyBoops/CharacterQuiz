@@ -1,0 +1,12 @@
+C:\Users\Lucas Nolting\source\repos\FanQuiz\FanQuiz\FanQuiz\obj\Debug\netstandard2.0\FanQuiz.csprojAssemblyReference.cache
+C:\Users\Lucas Nolting\source\repos\FanQuiz\FanQuiz\FanQuiz\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\Lucas Nolting\source\repos\FanQuiz\FanQuiz\FanQuiz\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\Lucas Nolting\source\repos\FanQuiz\FanQuiz\FanQuiz\obj\Debug\netstandard2.0\FanQuiz.csproj.CoreCompileInputs.cache
+C:\Users\Lucas Nolting\source\repos\FanQuiz\FanQuiz\FanQuiz\obj\Debug\netstandard2.0\FanQuiz.AssemblyInfoInputs.cache
+C:\Users\Lucas Nolting\source\repos\FanQuiz\FanQuiz\FanQuiz\obj\Debug\netstandard2.0\FanQuiz.AssemblyInfo.cs
+C:\Users\Lucas Nolting\source\repos\FanQuiz\FanQuiz\FanQuiz\obj\Debug\netstandard2.0\FanQuiz.dll
+C:\Users\Lucas Nolting\source\repos\FanQuiz\FanQuiz\FanQuiz\obj\Debug\netstandard2.0\FanQuiz.pdb
+C:\Users\Lucas Nolting\source\repos\FanQuiz\FanQuiz\FanQuiz\bin\Debug\netstandard2.0\FanQuiz.deps.json
+C:\Users\Lucas Nolting\source\repos\FanQuiz\FanQuiz\FanQuiz\bin\Debug\netstandard2.0\FanQuiz.dll
+C:\Users\Lucas Nolting\source\repos\FanQuiz\FanQuiz\FanQuiz\bin\Debug\netstandard2.0\FanQuiz.pdb
+C:\Users\Lucas Nolting\source\repos\FanQuiz\FanQuiz\FanQuiz\obj\Debug\netstandard2.0\XamlC.stamp
